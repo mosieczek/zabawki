@@ -1,0 +1,11 @@
+D:\Moje\Aplikacje\testy\riskradartesty\szyfrowanie\szyfrowanie\bin\Debug\szyfrowanie.exe.config
+D:\Moje\Aplikacje\testy\riskradartesty\szyfrowanie\szyfrowanie\bin\Debug\szyfrowanie.exe
+D:\Moje\Aplikacje\testy\riskradartesty\szyfrowanie\szyfrowanie\bin\Debug\szyfrowanie.pdb
+D:\Moje\Aplikacje\testy\riskradartesty\szyfrowanie\szyfrowanie\obj\Debug\szyfrowanie.csproj.AssemblyReference.cache
+D:\Moje\Aplikacje\testy\riskradartesty\szyfrowanie\szyfrowanie\obj\Debug\szyfrowanie.csproj.SuggestedBindingRedirects.cache
+D:\Moje\Aplikacje\testy\riskradartesty\szyfrowanie\szyfrowanie\obj\Debug\szyfrowanie.Form1.resources
+D:\Moje\Aplikacje\testy\riskradartesty\szyfrowanie\szyfrowanie\obj\Debug\szyfrowanie.Properties.Resources.resources
+D:\Moje\Aplikacje\testy\riskradartesty\szyfrowanie\szyfrowanie\obj\Debug\szyfrowanie.csproj.GenerateResource.cache
+D:\Moje\Aplikacje\testy\riskradartesty\szyfrowanie\szyfrowanie\obj\Debug\szyfrowanie.csproj.CoreCompileInputs.cache
+D:\Moje\Aplikacje\testy\riskradartesty\szyfrowanie\szyfrowanie\obj\Debug\szyfrowanie.exe
+D:\Moje\Aplikacje\testy\riskradartesty\szyfrowanie\szyfrowanie\obj\Debug\szyfrowanie.pdb
