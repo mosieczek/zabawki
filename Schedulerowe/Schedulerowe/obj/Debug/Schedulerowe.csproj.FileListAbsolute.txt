@@ -1,0 +1,8 @@
+D:\Moje\Aplikacje\testy\console\Schedulerowe\Schedulerowe\bin\Debug\Schedulerowe.exe.config
+D:\Moje\Aplikacje\testy\console\Schedulerowe\Schedulerowe\bin\Debug\Schedulerowe.exe
+D:\Moje\Aplikacje\testy\console\Schedulerowe\Schedulerowe\bin\Debug\Schedulerowe.pdb
+D:\Moje\Aplikacje\testy\console\Schedulerowe\Schedulerowe\obj\Debug\Schedulerowe.csproj.AssemblyReference.cache
+D:\Moje\Aplikacje\testy\console\Schedulerowe\Schedulerowe\obj\Debug\Schedulerowe.csproj.SuggestedBindingRedirects.cache
+D:\Moje\Aplikacje\testy\console\Schedulerowe\Schedulerowe\obj\Debug\Schedulerowe.csproj.CoreCompileInputs.cache
+D:\Moje\Aplikacje\testy\console\Schedulerowe\Schedulerowe\obj\Debug\Schedulerowe.exe
+D:\Moje\Aplikacje\testy\console\Schedulerowe\Schedulerowe\obj\Debug\Schedulerowe.pdb

@@ -1,0 +1,9 @@
+c:\users\adriana\documents\visual studio 2013\Projects\Wysylanie_email\Wysylanie_email\bin\Debug\Wysylanie_email.exe.config
+c:\users\adriana\documents\visual studio 2013\Projects\Wysylanie_email\Wysylanie_email\bin\Debug\Wysylanie_email.exe
+c:\users\adriana\documents\visual studio 2013\Projects\Wysylanie_email\Wysylanie_email\bin\Debug\Wysylanie_email.pdb
+c:\users\adriana\documents\visual studio 2013\Projects\Wysylanie_email\Wysylanie_email\obj\Debug\Wysylanie_email.csprojResolveAssemblyReference.cache
+c:\users\adriana\documents\visual studio 2013\Projects\Wysylanie_email\Wysylanie_email\obj\Debug\Wysylanie_email.Form1.resources
+c:\users\adriana\documents\visual studio 2013\Projects\Wysylanie_email\Wysylanie_email\obj\Debug\Wysylanie_email.Properties.Resources.resources
+c:\users\adriana\documents\visual studio 2013\Projects\Wysylanie_email\Wysylanie_email\obj\Debug\Wysylanie_email.csproj.GenerateResource.Cache
+c:\users\adriana\documents\visual studio 2013\Projects\Wysylanie_email\Wysylanie_email\obj\Debug\Wysylanie_email.exe
+c:\users\adriana\documents\visual studio 2013\Projects\Wysylanie_email\Wysylanie_email\obj\Debug\Wysylanie_email.pdb
