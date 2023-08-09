@@ -1,7 +1,7 @@
 import openai
-openai.api_key = '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' 
+openai.api_key = '' 
 response = openai.Image.create(
-  prompt="Adrianna Osmólska w kosmosie",
+  prompt="cat in the space",
   n=1,
   size="1024x1024"
 )
