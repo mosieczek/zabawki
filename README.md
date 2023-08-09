@@ -1,3 +1,3 @@
 # Ćwiczenia i zabawy
-ćwiczenia z udemy
-zabawy z pythonem
+- ćwiczenia z udemy
+- zabawy z pythonem
