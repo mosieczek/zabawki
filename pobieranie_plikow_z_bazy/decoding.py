@@ -1,7 +1,7 @@
 import pyodbc
 
 # Połącz się z bazą danych SQL Server
-connection_string = "DRIVER={ODBC Driver 17 for SQL Server};SERVER=172.16.2.254;DATABASE=SPEC_SP_K;UID=sa;PWD=Wapro3000;"
+connection_string = "DRIVER={ODBC Driver 17 for SQL Server};SERVER=ip;DATABASE=db123;UID=sa;PWD=xx123;"
 conn = pyodbc.connect(connection_string)
 
 # Zdefiniuj zapytanie, które pobiera dane typu image z tabeli
