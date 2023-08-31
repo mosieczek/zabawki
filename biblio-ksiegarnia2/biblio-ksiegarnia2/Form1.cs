@@ -2,11 +2,13 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Data.SqlClient;
 using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
 
 namespace biblio_ksiegarnia2
 {
@@ -16,6 +18,7 @@ namespace biblio_ksiegarnia2
         public string serverName = string.Empty;
         public string userName = string.Empty;
         public string userPass = string.Empty;
+        public string connectionString = string.Empty;
         public Form1()
         {
             InitializeComponent();
@@ -31,9 +34,25 @@ namespace biblio_ksiegarnia2
             {
                 try
                 {
+                    connectionString = connectionString = $"Server={serverName};Database={databaseName};User Id={userName};Password={userPass};";
+                    using (SqlConnection sqlCon = new SqlConnection(connectionString))
+                    {
+                        try
+                        {
+                            sqlCon.Open();
+
+                            MessageBox.Show("Zalogowano.");
+
+                        }
+                        catch (Exception ex)
+                        {
+                            MessageBox.Show("Błąd podczas łączenia z bazą danych: " + ex.Message);
+                        }
+
+                    }
 
                 }
-                catch(Exception ex)
+                catch (Exception ex)
                 {
                     MessageBox.Show("Proszę uzupełnić wszystkie pola" + ex.Message, "Błąd", MessageBoxButtons.OK);
 
